@@ -1,0 +1,86 @@
+{
+  "user": [
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "username": "alicej",
+      "email": "alicej@example.org",
+      "phone": "555-666-7777",
+      "website": "www.alicejohnson.org"
+    },
+    {
+      "id": "4",
+      "name": "user name",
+      "username": "bobb",
+      "email": "bobbrown@example.com",
+      "phone": "444-555-6666",
+      "website": "www.bobbrown.io"
+    },
+    {
+      "id": 5,
+      "name": "Charlie Davis",
+      "username": "charlied",
+      "email": "charlied@example.net",
+      "phone": "333-444-5555",
+      "website": "www.charliedavis.net"
+    },
+    {
+      "id": 6,
+      "name": "Eve Taylor",
+      "username": "evetaylor",
+      "email": "eve.taylor@example.org",
+      "phone": "222-333-4444",
+      "website": "www.evetaylor.com"
+    },
+    {
+      "id": 7,
+      "name": "Frank Wilson",
+      "username": "frankw",
+      "email": "frankwilson@example.com",
+      "phone": "111-222-3333",
+      "website": "www.frankwilson.io"
+    },
+    {
+      "id": "8",
+      "name": "Grace Lee",
+      "username": "gracelee",
+      "email": "gracelee@example.net",
+      "phone": "999-888-7777",
+      "website": "www.gracelee.org"
+    },
+    {
+      "id": "9",
+      "name": "Henry White",
+      "username": "henryw",
+      "email": "henrywhite@example.org",
+      "phone": "888-777-6666",
+      "website": "www.henrywhite.com"
+    },
+    {
+      "id": "10",
+      "name": "Ivy green",
+      "username": "ivygreen",
+      "email": "ivygreen@example.net",
+      "phone": "777-666-5555",
+      "website": "www.ivygreen.io"
+    },
+    {
+      "id": "dc95",
+      "name": "Sanjana patel",
+      "email": "sanjanapatel438@gmail.com",
+      "phone": "08305013820"
+    },
+    {
+      "id": "5007",
+      "name": "Sanjana patel",
+      "email": "sanjanapatel438@gmail.com",
+      "phone": "08305013820"
+    },
+    {
+      "id": "1190",
+      "name": "sahil patel",
+      "email": "sanju@yopmail.com",
+      "phone": "08305013820"
+    }
+  ]
+}
